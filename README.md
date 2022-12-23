@@ -1,2 +1,2 @@
 # Cafe-Menu
-A simple cafe menu built using HTML and CSS
+A simple <a href="https://rh0se.github.io/Cafe-Menu/">cafe menu</a> built using HTML and CSS
